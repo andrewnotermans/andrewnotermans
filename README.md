@@ -33,4 +33,5 @@
 
 ## 📫 Let's connect!
 
-Feel free to check out my projects or connect on [LinkedIn](https://www.linkedin.com/andrew-notermans) (link to update!)
+Feel free to check out my projects or connect on [LinkedIn](https://www.linkedin.com/andrew-notermans)
+
