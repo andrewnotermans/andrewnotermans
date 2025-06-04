@@ -23,23 +23,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📚 Learning roadmap
-
-- Deep dive into React (components, hooks, performance)  
-- CSS mastery for clean and responsive UIs  
-- Backend with Node.js, Express & MongoDB  
-- GitHub contributions and real-world project workflow  
-- Fundamentals of cybersecurity & networking
-
-## 🧠 Fun facts
-
-- I’m based in Belgium and love cycling, hiking, and outdoor adventures  
-- I started coding from scratch with no tech background  
-- I’m building my own path one commit at a time 💪
-
-## 📫 Let's connect!
-
-Feel free to check out my projects or connect on [LinkedIn](https://www.linkedin.com/) (link to update!)
 
 
 ## 🧠 Fun facts
